@@ -1,4 +1,4 @@
-# FusedLocationProvider Tutorial
+# FusedLocationProvider Tutorial With Helper Class (LocationProvider.java)
 
 #### Android Mainfest
 ```
